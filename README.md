@@ -11,7 +11,8 @@ To run this project, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-  git clone https://github.com/RaymonDev/RUSGen```
+  git clone https://github.com/RaymonDev/RUSGen
+```
 
 2. Create a virtual environment (optional but recommended) to keep the project dependencies isolated:
 ```
